@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictoriaBrown89
-- 👀 I’m interested in: Front End Web Development Work! + React + ReactNative + Angular + Python
-- 🌱 I’m currently learning: ReactNative
-- 💞️ I’m looking to collaborate on anything for the front end
+- 👀 I’m interested in: Front End Web Development Work! + Python/ML/AI
+- 🌱 I’m currently learning: Refreshing on Python, learning SQL
+- 💞️ I’m looking to collaborate on anything for the front end.
 - 📫 How to reach me: email: victoria.d.brown89@gmail.com
 
 <!---
