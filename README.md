@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @VictoriaBrown89
+- 👋 Hi, I’m Victoria
 - 👀 I’m interested in: ETL, Databases, Data Analysis, Data Engineering
 - 🌱 I’m currently learning: Data Automation and Integration with Python
 - 💞️ I’m looking to collaborate on any data projects.
 - 📫 How to reach me: email: victoria.d.brown89@gmail.com
+- LinkedIn: linkedin.com/in/victoriabrown6/
